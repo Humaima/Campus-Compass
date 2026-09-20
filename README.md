@@ -1,4 +1,4 @@
-# 🏫 Campus Compass
+# 🏫 Arcadia University - Campus Compass
 
 ### Your campus. Your quest. Your compass.
 
